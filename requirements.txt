@@ -1,0 +1,3 @@
+# deCONZ to Zigbee2MQTT Migration Tool Dependencies
+# PyYAML for YAML configuration file generation
+pyyaml>=6.0,<7.0
