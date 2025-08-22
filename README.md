@@ -1,5 +1,5 @@
 
-# deCONZ → Zigbee2MQTT Migration Tool
+# deCONZ → Zigbee2MQTT Migration Tool (work in progress)
 
 > Migration Tool für deCONZ-Geräte nach Zigbee2MQTT
 
